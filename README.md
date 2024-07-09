@@ -38,10 +38,10 @@
        <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" padding="5" alt="Redux" />
         <br>Redux</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
+<!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" padding="5" alt="React" />
         <br>MUI</br>
-</td>
+</td> -->
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=python" width="60" height="60" padding="5" alt="Python" />
         <br>Python</br>
@@ -69,13 +69,13 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" />
       <br>MongoDB</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
+<!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" padding="5" alt="PostgreSQL" />
         <br>PostgreSQL</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
+</td> -->
+<!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" padding="5" alt="PostgreSQL" />
         <br>Firebase</br>
-</td>
+</td> -->
 </tr>
 </table>
