@@ -46,13 +46,17 @@
         <img src="https://skillicons.dev/icons?i=python" width="60" height="60" padding="5" alt="Python" />
         <br>Python</br>
 </td> -->
-</tr>
-
-<tr>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="React" />
         <br>Next.js</br>
 </td>
+</tr>
+
+<tr>
+<!-- <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="React" />
+        <br>Next.js</br>
+</td> -->
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="Node.js" />
         <br>Node.js</br>
