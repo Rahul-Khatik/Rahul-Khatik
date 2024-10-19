@@ -18,10 +18,10 @@
         <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" />
         <br>JavaScript</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
+<!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" padding="5" alt="TypeScript" />
         <br>TypeScript</br>
-</td>
+</td> -->
 <!--  <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=webpack" width="60" height="60" padding="5" alt="Webpack" />
         <br>Webpack</br>
@@ -34,18 +34,18 @@
         <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
         <br>React</br>
 </td>
-<td align="center" width="96" style="border:2px solid blue">
+<!-- <td align="center" width="96" style="border:2px solid blue">
        <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" padding="5" alt="Redux" />
         <br>Redux</br>
-</td>
+</td> -->
 <!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" padding="5" alt="React" />
         <br>MUI</br>
 </td> -->
-<td align="center" width="96" style="border:2px solid blue">
+<!-- <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=python" width="60" height="60" padding="5" alt="Python" />
         <br>Python</br>
-</td>
+</td> -->
 </tr>
 
 <tr>
